@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dredge-itembuilder/static/css/main.4b9bb308.css",
-    "main.js": "/dredge-itembuilder/static/js/main.dd85bf1e.js",
+    "main.css": "/dredge-itembuilder/static/css/main.2e48de40.css",
+    "main.js": "/dredge-itembuilder/static/js/main.498415b9.js",
     "static/js/787.45bc5ebd.chunk.js": "/dredge-itembuilder/static/js/787.45bc5ebd.chunk.js",
     "index.html": "/dredge-itembuilder/index.html",
-    "main.4b9bb308.css.map": "/dredge-itembuilder/static/css/main.4b9bb308.css.map",
-    "main.dd85bf1e.js.map": "/dredge-itembuilder/static/js/main.dd85bf1e.js.map",
+    "main.2e48de40.css.map": "/dredge-itembuilder/static/css/main.2e48de40.css.map",
+    "main.498415b9.js.map": "/dredge-itembuilder/static/js/main.498415b9.js.map",
     "787.45bc5ebd.chunk.js.map": "/dredge-itembuilder/static/js/787.45bc5ebd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b9bb308.css",
-    "static/js/main.dd85bf1e.js"
+    "static/css/main.2e48de40.css",
+    "static/js/main.498415b9.js"
   ]
 }
