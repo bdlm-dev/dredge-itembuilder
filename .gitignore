@@ -1,7 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-README.md
-
 # dependencies
 /node_modules
 /.pnp
@@ -27,3 +25,5 @@ yarn-error.log*
 /src
 setupTests.js
 reportWebVitals.js
+node_modules
+README.md
