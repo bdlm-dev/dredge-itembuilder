@@ -1,0 +1,20 @@
+@import "./components/variables.scss";
+
+a {
+  display: inline-block;
+  text-decoration: none; 
+  &:visited {
+    color: inherit;
+  }
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.app {
+  text-align: center;
+}
+
+hr {
+  width: 50%;
+}
