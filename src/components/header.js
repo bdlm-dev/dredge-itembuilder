@@ -7,7 +7,7 @@ export default class Header extends Component {
         return (
             <div className={styles.head}>
                 <div className={styles.title}>
-                    <a className={styles.game} href="https://store.steampowered.com/app/1562430/DREDGE/">
+                    <a className={styles.game} href="https://store.steampowered.com/app/1562430/DREDGE/" target="_blank">
                         DREDGE
                     </a>
                     &nbsp;Item Builder
@@ -15,7 +15,7 @@ export default class Header extends Component {
                 <div className={styles.tag}>
                     Easily design custom items for
                     &nbsp;
-                    <a href="https://github.com/Hacktix/Winch">
+                    <a href="https://github.com/Hacktix/Winch" target="_blank">
                         Winch
                     </a>
                 </div>
