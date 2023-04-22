@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dredge-itembuilder/static/css/main.964fdded.css",
+    "main.js": "/dredge-itembuilder/static/js/main.854faec0.js",
+    "static/js/787.45bc5ebd.chunk.js": "/dredge-itembuilder/static/js/787.45bc5ebd.chunk.js",
+    "index.html": "/dredge-itembuilder/index.html",
+    "main.964fdded.css.map": "/dredge-itembuilder/static/css/main.964fdded.css.map",
+    "main.854faec0.js.map": "/dredge-itembuilder/static/js/main.854faec0.js.map",
+    "787.45bc5ebd.chunk.js.map": "/dredge-itembuilder/static/js/787.45bc5ebd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.854faec0.js"
+  ]
+}
