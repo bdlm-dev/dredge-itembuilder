@@ -22,9 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/src
-setupTests.js
-reportWebVitals.js
+/src/setupTests.js
+/src/reportWebVitals.js
 node_modules
 README.md
 info.txt
