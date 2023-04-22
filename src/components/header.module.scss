@@ -7,7 +7,8 @@
 
     display: flex;
     flex-direction: column;
-    padding: $--title-padding 0;
+    padding-top: $--title-padding-top;
+    padding-bottom: $--title-padding-bottom;
     .title {
       font-size: min(5rem, $--max-title-size);
       line-height: 1.2;
@@ -30,5 +31,5 @@
       a {
         font-weight: bold;
     }
-}
+  }
 }

@@ -1,0 +1,10 @@
+@import "./variables.scss";
+
+.fullWidth {
+    min-width: 100%;
+}
+
+.sub {
+    color: $--color-secondary-shade;
+    font-size: 0.8rem;
+}

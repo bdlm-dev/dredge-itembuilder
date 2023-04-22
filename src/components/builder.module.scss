@@ -1,0 +1,65 @@
+@import "./variables.scss";
+
+.builder {
+    margin-top: 50px;
+    width: 100%;
+}
+
+.builderForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .formEntry {
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+        input {
+            margin-top: 5px;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.typeSelectors {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    margin-bottom: 20px;
+    .selector {
+        width: 15%;
+        display: flex;
+        flex-flow: column nowrap;
+        label {
+            padding-bottom: 5px;
+        }
+    }
+}
+
+.submitButton {
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+.codeOutput {
+    margin-top: 40px;
+    width: 100%;
+    div {
+        pre {
+            width: 100%;
+            overflow: auto;
+            background-color: $--color-secondary;
+            color: $--color-primary;
+            padding: 10px 10px;
+            code {
+                display: block;
+                text-align: left;
+                width: 100%;
+            }
+        }
+    }
+}
